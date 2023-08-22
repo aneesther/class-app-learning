@@ -1,0 +1,17 @@
+nav {
+    display: flex;
+    background-color: blue;
+    justify-content: space-around;
+    margin: 2px;
+    gap: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.esther {
+    display: flex;
+    font-weight: 700;
+    font-size: 500;
+}
+button {
+    line-height: 50%;
+}
